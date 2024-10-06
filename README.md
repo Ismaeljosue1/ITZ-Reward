@@ -2,7 +2,7 @@
 
 # Detalles del script:
 
-- Comando para recibir los objetos por default esta puesto que reciba 3 aguas, 3 hamburguesas, 1 telofono, y 20k (estos objetos a dar es modificables a los que ustedes deseen)
+- Comando para recibir los objetos por default esta puesto que reciba 3 aguas, 3 hamburguesas, 1 telofono, y 20k (estos objetos a dar es modificables a los que ustedes deseen) al igual que pueden añadir mas objetos
 
 - Comando para deshabilitar el comando para recibir la recompensa ( Esto es por si quieren que paren de reclamar el pack de bienvenida las personas) al igual ay el comando para habilitarlo
 
